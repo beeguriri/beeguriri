@@ -25,6 +25,7 @@
   <h4 align="center"> 🛠 Tools I can use ... 🛠 </h4>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
