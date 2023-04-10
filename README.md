@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeguriri&layout=compact"><br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooh11036)](https://solved.ac/pooh11036/)
+  <br><br>
+  
   <h4 align="center"> 🛠 Tools I can use ... 🛠 </h4>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
