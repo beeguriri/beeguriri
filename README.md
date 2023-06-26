@@ -28,7 +28,7 @@
   <br><br>
  
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeguriri&layout=compact">  &nbsp;&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooh11036)](https://solved.ac/pooh11036/)  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeguriri&hide=JupyterNotebook&layout=compact">  &nbsp;&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooh11036)](https://solved.ac/pooh11036/)  
   <br><br>
   
   <h4 align="center"> 🛠 Tools I can use ... 🛠 </h4>
