@@ -12,9 +12,15 @@
 - 가비지 컬렉터를 이용하여 사용하지 않는 메모리 자동으로 회수
 
 ### 💜 자바 메모리 구조
-- 메서드 영역 (공통) : 클래스 별 전역변수, 정적 변수, 메서드 정보 저장
-- 스택 영역(스레드별) : 호츨 된 메서드의 매개변수, 지역변수, 리턴정보 등  저장
-- 힙 영역(공통) : 런타임 중 생성되는 객체들이 동적으로 할당
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZR97z%2FbtrvtdBl1Md%2FLbUk2NVlgDmsKMcBiQ9f4K%2Fimg.png">
+
+- 모든 스레드가 공유해서 사용 (GC의 대상)
+  - 힙 영역 (Heap Area) : 런타임 중 생성되는 객체들이 동적으로 할당 (new 키워드), 주기적으로 GC가 제거
+  - 메서드 영역(Method Area) : 클래스 별 전역변수, 정적 변수, 메서드 정보 저장
+- 스레드(Thread) 마다 하나씩 생성
+  - 스택 영역(Stack Area) : 호츨 된 메서드의 매개변수, 지역변수, 리턴정보 등  저장
+  - PC 레지스터 (PC Register) : Thread가 생성될 때마다 생성되는 영역. 현재 스레드가 실행되는 부분의 주소와 명령을 저장
+  - 네이티브 메서드 스택(Native Method Stack) : 자바 이외의 언어(C, C++, 어셈블리 등)로 작성된 네이티브 코드를 실행할 때 사용
 
 ### 💜 가비지 컬렉션이란?
 - JVM에서 메모리를 관리해주는 모듈
