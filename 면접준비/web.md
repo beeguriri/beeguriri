@@ -18,6 +18,10 @@
 - 데이터 전달 보증, 전송 순서 보장
 - (참고) UDP: 비연결형. IP와 거의 같으나 Port, 체크섬 정도 추가되어있음. TCP보다 빠름.
 
+
+
+
+
 ### 💜 OSI 7계층
 <img stc="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FS9lc1%2Fbtr5pyxTjZ6%2FXM5NxJPjqHymq1M0I8ikpK%2Fimg.png">
 
@@ -110,6 +114,7 @@
 
 ### 💜 토큰 기반 인증 
 #### 🎈 JWT
+- jason web token
 #### 🎈 OAuth
 
 ### 💜 CORS란?
