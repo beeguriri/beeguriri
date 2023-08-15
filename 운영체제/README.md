@@ -9,7 +9,7 @@
 - 교착상태
 - 단일 프로세스 스케줄링
 - 병행 프로세스 관리
-- 동기화
+- [동기화](https://github.com/beeguriri/beeguriri/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EB%8F%99%EA%B8%B0%ED%99%94.md)
 
 ### 2) 메모리관리
 #### RAM
