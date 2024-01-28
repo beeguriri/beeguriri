@@ -1,60 +1,8 @@
-<!--![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기) -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Just　Do!&fontAlign=50&fontAlignY=40&color=gradient)
+## 🎈Hi, There🎈
+![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1706430667146?alt=media&token=340b4b5e-e125-4ff0-aee0-841b7124a9d2)
+![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1706430789182?alt=media&token=25dd681a-bb4a-410b-9db1-47235f713233)
+![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1706430846083?alt=media&token=4b5bbe0a-cb14-4afd-b779-da9f113ab7fd)
+![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1706430984957?alt=media&token=d5f2824f-8e24-410f-8b38-700a94b64788)
+![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1706431093877?alt=media&token=3d183ed1-113c-4687-beac-c18cd20332aa)
 
-<div align = center>
-  <p align="center">
-  <!--
-  <h4 align="center"> 🐣 Hi there 🐣 </h4>
- <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
-  <a href="mailto:kkamboting@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  -->
-  <h4 align="center"> 🌱 I’m currently learning ... 🌱 </h4>
-  <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> 
-      홈페이지 : https://simpleicons.org/ -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/JSP·Servlet-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp; <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp;
-  <br><br>
- 
-  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeguriri&hide=JupyterNotebook&layout=compact">  &nbsp;&nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooh11036)](https://solved.ac/pooh11036/)  
-  <br><br>
-  
-  <h4 align="center"> 🛠 Tools I can use ... 🛠 </h4>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
-  </p>  
-</div>
-
-<!--
-**beeguriri/beeguriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://msdio.github.io/stackticon/#/ -->
